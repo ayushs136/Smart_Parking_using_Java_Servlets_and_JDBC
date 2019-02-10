@@ -16,4 +16,4 @@ See the Video: https://bit.ly/2ATikn8
 
 P.S. : Download the zip file to run project in Eclipse and use mysql for database.
 
-![project](https://imgur.com/hvDbZbt)
+![alt text](https://imgur.com/hvDbZbt)
